@@ -29,6 +29,8 @@ As a user you can choose to calculate the number of combinations two ways.
  * Recursion
  
  Go by feeling and have fun!
+ 
+ ![Frog](https://cdn.pixabay.com/photo/2018/10/28/17/28/frog-3779345_960_720.png)
 
 
 
